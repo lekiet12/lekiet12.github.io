@@ -14,9 +14,9 @@ timezone: Asia/Hanoi
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Lê Quốc Kiệt # the main title
+title: LQK's blog # the main title
 
-tagline: I am LQK, I like CTFs # it will display as the sub-title
+tagline: I am Kiet, I like CTFs # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Umm, Hii.. ? CTF Notes and Writeups, I guess.
